@@ -38,7 +38,7 @@ function renderLicenseLink(license) {
 function generateMarkdown(data) {
   return `# ${data.title}
 
-  ${renderLicenseBadge(license)}
+  ${renderLicenseBadge(data.license)}
 
   ## Description
   ${data.description}
@@ -64,7 +64,7 @@ function generateMarkdown(data) {
   ${data.tests}
 
   ## License
-  [${data.license}](${renderLicenseLink(license)})
+  [${data.license}](${renderLicenseLink(data.license)})
 
   ## Questions?
   GitHub: [${data.github}]

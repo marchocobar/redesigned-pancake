@@ -63,11 +63,11 @@ function writeToFile(fileName, data) {
 
 // TODO: Create a function to initialize app
 function init() {
-  questions();
+  questions()
 
-    // .then((answers) => writeToFile('README.md', generateMarkdown(answers)))
-    // .then(() => console.log('Successfully wrote to readme.md'))
-    // .catch((err) => console.error(err));
+    .then((answers) => writeToFile('README.md', generateMarkdown(answers)))
+    .then(() => console.log('Successfully wrote to readme.md'))
+    .catch((err) => console.error(err));
 
 }
 
