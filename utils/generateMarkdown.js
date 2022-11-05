@@ -74,7 +74,7 @@ function generateMarkdown(data) {
   ${data.tests}
 
   ## License
-  [${data.license}](${renderLicenseLink(data.license)})
+  ${renderLicenseLink(data.license)}
 
   ## Questions?
   GitHub: [${data.github}](https://github.com/${data.github})

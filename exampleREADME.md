@@ -1,9 +1,9 @@
-# Example README
+# Example ReadMe
 
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## Description
-  Example README file generated using README Generator
+  Example Readme file using the Readme generator
 
   ## Table of Contents
   - [Installation](#installation)
@@ -14,10 +14,10 @@
   - [Questions](#questions)
 
   ## Installation
-  Use npm Inquirer and node
+  Install Node.js and npm Inquirer
 
   ## Usage
-  Run node in command line and answer the following question prompts
+  Install and run node and inquirer and answer question prompts in command line to generate  file
 
   ## Contribute
   N/A
@@ -26,7 +26,7 @@
   N/A
 
   ## License
-  [MIT]([MIT](https://opensource.org/licenses/MIT))
+  [MIT](https://opensource.org/licenses/MIT)
 
   ## Questions?
   GitHub: [marchocobar](https://github.com/marchocobar)

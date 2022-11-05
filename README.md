@@ -18,7 +18,7 @@
 
   ## Usage
   Answer prompts in the command line to genrate readme file
-  
+
   ![Screenshot](/assets/Image/Screen%20Shot%202022-11-05%20at%206.37.42%20PM.png)
 
   ## Contribute
@@ -28,7 +28,7 @@
   N/A
 
   ## License
-  [MIT]([MIT](https://opensource.org/licenses/MIT))
+  [MIT](https://opensource.org/licenses/MIT)
 
   ## Questions?
   GitHub: [marchocobar](https://github.com/marchocobar)
