@@ -65,7 +65,7 @@ function writeToFile(fileName, data) {
 function init() {
   questions()
 
-    .then((answers) => writeToFile('README.md', answers))
+    .then((answers) => writeToFile('exampleREADME.md', answers))
     .then(() => console.log('Successfully wrote to readme.md'))
     .catch((err) => console.error(err));
 
