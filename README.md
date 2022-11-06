@@ -18,6 +18,7 @@
 
   ## Usage
   Answer prompts in the command line to genrate readme file
+  [Video Walkthrough](https://drive.google.com/file/d/1RfW3zCDs6U6IpAdHLFW6AWFaOYK2CtkF/view)
 
   ![Screenshot](/assets/Image/Screen%20Shot%202022-11-05%20at%206.37.42%20PM.png)
 
